@@ -5,9 +5,9 @@ import CurvedLoop from './components/CurvedLoop/CurvedLoop.jsx';
 
 function App() {
   return (
-    <div style={{width: '100vw', height: '100vh', backgroundColor: '#002225'}}>
+    <div style={{width: '100vw', height: '100vh', backgroundColor: 'transparent'}}>
       <div>
-        {/* <div style={{ width: '100vw', height: '100vh' }}>
+        {/* <div style={{ width: '100vw', height: '100vh' }}
           <DomeGallery 
             minRadius={2000}
             grayscale={false}
